@@ -507,3 +507,5 @@ public class CalculatorBonus extends JFrame {
 		return Double.toString(ans);
 	}
 }
+// Great but will you be able to explain all the code?-)
+
